@@ -14,6 +14,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="2" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  />
 
 ###
@@ -112,9 +114,11 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/param-atxep/param-atxep/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/param-atxep/param-atxep/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/param-atxep/param-atxep/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/param-atxep/param-atxep/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
