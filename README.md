@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" height="2" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  />
+<img align="center" height="2" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  />
 Hi 👋 I'm Param Shelke<br><br>🎓 B.Tech 2nd Year Student at PES Modern College of Engineering, Pune  <br>💻 Java Full Stack Developer | Mobile App Developer  <br>🚀 Founder of Atxep Zyreva<br><br>I enjoy building real-world software products with a focus on clean code, performance, and practical problem solving.  <br>I work across the full stack and constantly improve my skills by creating web and mobile applications.<br><br>🧠 Tech Stack<br>Java, Advanced Java, JavaScript, Node.js, Flutter  <br>HTML, CSS, MySQL, REST APIs  <br>Full Stack Development, Mobile App Development  <br>Git and GitHub<br><br>🏗️ Experience<br>Founder of Atxep Zyreva, where I design and develop mobile apps, websites, and complete software solutions, managing projects from idea to deployment.<br><br>🎯 Goals<br>Grow as a software engineer, contribute to impactful projects, and work with strong engineering teams.<br><br>📫 Open to internships, freelance work, and collaborations.<br>
 
 
